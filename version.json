@@ -1,5 +1,5 @@
 {
- "version": 2.0,
+ "version": 1.0,
  "force": true,
  "message": "New update available. Please download the latest version.",
  "url": "https://yourwebsite.com/app.apk"
